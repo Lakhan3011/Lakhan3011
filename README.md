@@ -1,4 +1,4 @@
-Hello👋,  I'm Lakhan  <hr> 
+Hello👋,  I'm Lakhan  </br>
 A passionate Software Engineer
 
 <!--
