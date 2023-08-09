@@ -1,4 +1,4 @@
-Hello👋, I'm Lakhan 
+Hello👋,  I'm Lakhan  <hr> 
 A passionate Software Engineer
 
 <!--
