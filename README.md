@@ -1,5 +1,5 @@
 ![Main](https://camo.githubusercontent.com/69268b410a566ac47e88b1a336c80e438e6d13315838d2548510f03f31b4f6c7/68747470733a2f2f696b2e696d6167656b69742e696f2f647265736d612f447265736d615f4c6962726172792f73656e696f722d736f6674776172652d656e67696e6565725f57793832745951796d2e676966)
-<h1 align="center">Hi 👋, I'm Lakhan Lal</h1>
+<h1 align="center">Hi 👋, I'm Lakhan </h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakhan3011&label=Profile%20views&color=0e75b6&style=flat" alt="lakhan3011" /> </p>
