@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **lakhanlal3011@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1j_3q06piESR2LeR_npToSabSlX0dF-8g/view?usp=sharing](https://drive.google.com/file/d/1j_3q06piESR2LeR_npToSabSlX0dF-8g/view?usp=sharing)
+- 📄 Let's connect  [Portfolio](https://lakhan-dev-portfolio.vercel.app/)
 
 - ⚡ Fun fact **I think I am shy👉🏻👈🏻**
 
