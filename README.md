@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/lakhan3011/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lakhan3011" alt="lakhan3011" /></a> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=lakhan3011&theme=onedark)](https://github.com/lakhan3011/github-profile-trophy)
+[![An image of @lakhan3011's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/lakhan3011)](https://holopin.io/@lakhan3011)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
