@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently  **Building things with Nextjs**
+- 🔭 I’m currently  **Building things with Turborepo**
 
 - 📫 How to reach me **lakhanlal3011@gmail.com**
 
